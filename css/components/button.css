@@ -1,0 +1,15 @@
+.button-blue{
+	background-color: mediumblue;
+	padding: 8px;
+	border-radius: 10px;
+	box-shadow: 0 10px 10px rgba(0,0,0,.1);
+	transition: 0.15s ease;
+}
+
+.button-blue:hover{
+	background-color: royalblue;
+	padding: 10px;
+	margin:-2px;
+	color: aliceblue;
+	box-shadow: 0 5px 10px rgba(0,0,127,.8);
+}
